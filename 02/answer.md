@@ -6,10 +6,6 @@
 
 ![5341600961924895436](https://github.com/user-attachments/assets/b305f109-bac5-406d-bf05-f10d7ae5f64d)
 
-Задание 1 Блок 3
-
-![5343852761738579469](https://github.com/user-attachments/assets/f4b6e522-2ed6-4137-8a2d-82fa529ef719)
-
 ### Вопрос 2
 
 Ошибка связана с тем, что standart-v4 не существует. Исправил на "standard-v3":
@@ -51,8 +47,4 @@
 ## Задание 4
 
 ![5341600961924895435](https://github.com/user-attachments/assets/7a876db9-0494-4fb7-8082-304e9b291136)
-
-Задание 4 блок 3
-
-![5343852761738579470](https://github.com/user-attachments/assets/887a875e-89c6-41ed-9d74-bcc2d48c8e3a)
 
