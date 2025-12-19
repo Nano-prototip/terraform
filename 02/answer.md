@@ -6,6 +6,9 @@
 
 ![5341600961924895436](https://github.com/user-attachments/assets/b305f109-bac5-406d-bf05-f10d7ae5f64d)
 
+Задание 1 Блок 3
+
+![5343852761738579469](https://github.com/user-attachments/assets/f4b6e522-2ed6-4137-8a2d-82fa529ef719)
 
 ### Вопрос 2
 
